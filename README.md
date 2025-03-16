@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/monkey-d-paras/Leetcode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/monkey-d-paras/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/monkey-d-paras/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2665-minimum-time-to-repair-cars](https://github.com/monkey-d-paras/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/monkey-d-paras/Leetcode/tree/master/2690-house-robber-iv) |
@@ -31,6 +32,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/monkey-d-paras/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/monkey-d-paras/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2665-minimum-time-to-repair-cars](https://github.com/monkey-d-paras/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/monkey-d-paras/Leetcode/tree/master/2690-house-robber-iv) |
@@ -39,4 +41,8 @@
 |  |
 | ------- |
 | [3643-zero-array-transformation-ii](https://github.com/monkey-d-paras/Leetcode/tree/master/3643-zero-array-transformation-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/monkey-d-paras/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
