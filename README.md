@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/monkey-d-paras/Leetcode/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/monkey-d-paras/Leetcode/tree/master/0009-palindrome-number) |
 | [2610-closest-prime-numbers-in-range](https://github.com/parasu866776/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [3227-find-missing-and-repeated-values](https://github.com/parasu866776/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Number Theory
