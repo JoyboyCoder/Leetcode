@@ -18,6 +18,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/monkey-d-paras/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/monkey-d-paras/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/monkey-d-paras/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/monkey-d-paras/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2308-divide-array-into-equal-pairs](https://github.com/monkey-d-paras/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/monkey-d-paras/Leetcode/tree/master/2478-longest-nice-subarray) |
@@ -87,4 +88,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/monkey-d-paras/Leetcode/tree/master/0020-valid-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/monkey-d-paras/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
