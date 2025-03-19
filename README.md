@@ -73,8 +73,13 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/monkey-d-paras/Leetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/monkey-d-paras/Leetcode/tree/master/0014-longest-common-prefix) |
 ## Queue
 |  |
 | ------- |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/monkey-d-paras/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/monkey-d-paras/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
