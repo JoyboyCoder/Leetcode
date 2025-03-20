@@ -21,6 +21,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/monkey-d-paras/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/monkey-d-paras/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/monkey-d-paras/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/monkey-d-paras/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/monkey-d-paras/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/monkey-d-paras/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [2665-minimum-time-to-repair-cars](https://github.com/monkey-d-paras/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
@@ -34,6 +35,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/monkey-d-paras/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/monkey-d-paras/Leetcode/tree/master/0013-roman-to-integer) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/monkey-d-paras/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/monkey-d-paras/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/parasu866776/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Matrix
@@ -67,6 +69,7 @@
 ## Counting
 |  |
 | ------- |
+| [1510-find-lucky-integer-in-an-array](https://github.com/monkey-d-paras/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/monkey-d-paras/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Sliding Window
 |  |
