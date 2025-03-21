@@ -10,6 +10,7 @@
 | [0070-climbing-stairs](https://github.com/monkey-d-paras/Leetcode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/monkey-d-paras/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/monkey-d-paras/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
+| [0202-happy-number](https://github.com/monkey-d-paras/Leetcode/tree/master/0202-happy-number) |
 | [2610-closest-prime-numbers-in-range](https://github.com/parasu866776/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [3227-find-missing-and-repeated-values](https://github.com/parasu866776/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Number Theory
@@ -41,6 +42,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/monkey-d-paras/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/monkey-d-paras/Leetcode/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/monkey-d-paras/Leetcode/tree/master/0202-happy-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/monkey-d-paras/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1848-sum-of-unique-elements](https://github.com/monkey-d-paras/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/monkey-d-paras/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -109,6 +111,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/monkey-d-paras/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0202-happy-number](https://github.com/monkey-d-paras/Leetcode/tree/master/0202-happy-number) |
 ## Union Find
 |  |
 | ------- |
