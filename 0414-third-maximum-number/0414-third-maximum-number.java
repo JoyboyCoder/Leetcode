@@ -21,9 +21,6 @@ class Solution {
             thi=nums[i];
            }
         }
-        if(thi == Long.MIN_VALUE){
-         return (int)fir;
-    }
-    return (int)thi;
+        return thi == Long.MIN_VALUE ? (int) fir : (int) thi;
   }         
 }
