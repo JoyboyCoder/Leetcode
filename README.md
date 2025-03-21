@@ -8,6 +8,7 @@
 | [0009-palindrome-number](https://github.com/monkey-d-paras/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/monkey-d-paras/Leetcode/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/monkey-d-paras/Leetcode/tree/master/0070-climbing-stairs) |
+| [0168-excel-sheet-column-title](https://github.com/monkey-d-paras/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/monkey-d-paras/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [2610-closest-prime-numbers-in-range](https://github.com/parasu866776/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [3227-find-missing-and-repeated-values](https://github.com/parasu866776/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -90,6 +91,7 @@
 | [0013-roman-to-integer](https://github.com/monkey-d-paras/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/monkey-d-paras/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/monkey-d-paras/Leetcode/tree/master/0020-valid-parentheses) |
+| [0168-excel-sheet-column-title](https://github.com/monkey-d-paras/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/monkey-d-paras/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Queue
 |  |
