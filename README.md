@@ -124,6 +124,7 @@
 ## Graph
 |  |
 | ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/monkey-d-paras/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/monkey-d-paras/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2793-count-the-number-of-complete-components](https://github.com/monkey-d-paras/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/monkey-d-paras/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -135,11 +136,13 @@
 ## Topological Sort
 |  |
 | ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/monkey-d-paras/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/monkey-d-paras/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/monkey-d-paras/Leetcode/tree/master/0070-climbing-stairs) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/monkey-d-paras/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Memoization
 |  |
 | ------- |
@@ -160,4 +163,8 @@
 |  |
 | ------- |
 | [2793-count-the-number-of-complete-components](https://github.com/monkey-d-paras/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
+## Shortest Path
+|  |
+| ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/monkey-d-paras/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
