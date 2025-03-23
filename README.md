@@ -26,6 +26,7 @@
 | [0001-two-sum](https://github.com/monkey-d-paras/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/monkey-d-paras/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/monkey-d-paras/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/monkey-d-paras/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0414-third-maximum-number](https://github.com/monkey-d-paras/Leetcode/tree/master/0414-third-maximum-number) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/monkey-d-paras/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/monkey-d-paras/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -115,6 +116,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/monkey-d-paras/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/monkey-d-paras/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/monkey-d-paras/Leetcode/tree/master/0202-happy-number) |
 ## Union Find
 |  |
@@ -131,6 +133,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/monkey-d-paras/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0414-third-maximum-number](https://github.com/monkey-d-paras/Leetcode/tree/master/0414-third-maximum-number) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/monkey-d-paras/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 ## Topological Sort
