@@ -1,25 +1,23 @@
 class Solution {
     public boolean isUgly(int n) {
-        if(n<=0) return false;
-        int m=n;
-        int i=0;
-        while(m>5){
-            if(m%2==0){
-                m=m/2;
-                i++;
+        int flag=0;
+        if(n>0){
+            while(n%2==0){
+                n/=2;
             }
-            else if(m%3==0){
-                m=m/3;
-                i++;
+            while(n%3==0){
+                n/=3;
             }
-            else if(m%5==0){
-                m=m/5;
-                i++;
+            while(n%5==0){
+                n/=5;
             }
-            else{
-                 return false;   
-            }
-        }   
-        return true;     
+            return n==1;
+        }
+        else if(n==1){
+            return true;
+        }
+        else {
+            return false;
+        }
     }
 }
