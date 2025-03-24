@@ -1,20 +1,22 @@
+
 class Solution {
-    public boolean isUgly(int m) {
-        if(m<=0) return false;
-        while(m>5){
-            if(m%2==0){
-                m=m/2;
-            }
-            else if(m%3==0){
-                m=m/3;
-            }
-            else if(m%5==0){
-                m=m/5;
-            }
-            else{
-                 return false;   
-            }
-        }   
-        return true;     
+    public boolean isUgly(int n) {
+        if(n==0){
+            return false;
+        }
+        while(n%2==0){
+            n=n/2;
+        }
+        while(n%3==0){
+            n=n/3;
+        }
+        while(n%5==0){
+            n=n/5;
+        }
+
+        if(n!=1){
+            return false;
+        }
+        return true;
     }
 }
