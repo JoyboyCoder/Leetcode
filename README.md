@@ -39,6 +39,7 @@
 | [2690-house-robber-iv](https://github.com/monkey-d-paras/Leetcode/tree/master/2690-house-robber-iv) |
 | [3227-find-missing-and-repeated-values](https://github.com/parasu866776/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/monkey-d-paras/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3430-count-days-without-meetings](https://github.com/monkey-d-paras/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/monkey-d-paras/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/monkey-d-paras/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Hash Table
@@ -136,6 +137,7 @@
 | [0088-merge-sorted-array](https://github.com/monkey-d-paras/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0414-third-maximum-number](https://github.com/monkey-d-paras/Leetcode/tree/master/0414-third-maximum-number) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/monkey-d-paras/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [3430-count-days-without-meetings](https://github.com/monkey-d-paras/Leetcode/tree/master/3430-count-days-without-meetings) |
 ## Topological Sort
 |  |
 | ------- |
