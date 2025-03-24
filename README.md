@@ -14,6 +14,7 @@
 | [0231-power-of-two](https://github.com/monkey-d-paras/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/monkey-d-paras/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/monkey-d-paras/Leetcode/tree/master/0263-ugly-number) |
+| [0292-nim-game](https://github.com/monkey-d-paras/Leetcode/tree/master/0292-nim-game) |
 | [2610-closest-prime-numbers-in-range](https://github.com/parasu866776/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [3227-find-missing-and-repeated-values](https://github.com/parasu866776/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Number Theory
@@ -173,4 +174,12 @@
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/monkey-d-paras/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/monkey-d-paras/Leetcode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/monkey-d-paras/Leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
