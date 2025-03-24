@@ -1,7 +1,6 @@
 class Solution {
-    public boolean isUgly(int n) {
-        if(n<=0) return false;
-        int m=n;
+    public boolean isUgly(int m) {
+        if(m<=0) return false;
         while(m>5){
             if(m%2==0){
                 m=m/2;
