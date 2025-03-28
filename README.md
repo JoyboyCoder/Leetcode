@@ -40,6 +40,7 @@
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/monkey-d-paras/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/monkey-d-paras/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/monkey-d-paras/Leetcode/tree/master/2478-longest-nice-subarray) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/monkey-d-paras/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2665-minimum-time-to-repair-cars](https://github.com/monkey-d-paras/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/monkey-d-paras/Leetcode/tree/master/2690-house-robber-iv) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/monkey-d-paras/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -66,6 +67,7 @@
 |  |
 | ------- |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/monkey-d-paras/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/monkey-d-paras/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3227-find-missing-and-repeated-values](https://github.com/parasu866776/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
@@ -131,9 +133,11 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/monkey-d-paras/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/monkey-d-paras/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/monkey-d-paras/Leetcode/tree/master/0202-happy-number) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/monkey-d-paras/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Union Find
 |  |
 | ------- |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/monkey-d-paras/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/monkey-d-paras/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/monkey-d-paras/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Graph
@@ -151,6 +155,7 @@
 | [0414-third-maximum-number](https://github.com/monkey-d-paras/Leetcode/tree/master/0414-third-maximum-number) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/monkey-d-paras/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/monkey-d-paras/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/monkey-d-paras/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/monkey-d-paras/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3430-count-days-without-meetings](https://github.com/monkey-d-paras/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/monkey-d-paras/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -183,6 +188,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/monkey-d-paras/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/monkey-d-paras/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Shortest Path
 |  |
@@ -196,4 +202,8 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/monkey-d-paras/Leetcode/tree/master/0292-nim-game) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/monkey-d-paras/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 <!---LeetCode Topics End-->
