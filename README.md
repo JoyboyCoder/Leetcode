@@ -63,6 +63,7 @@
 | [0013-roman-to-integer](https://github.com/monkey-d-paras/Leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/monkey-d-paras/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/monkey-d-paras/Leetcode/tree/master/0202-happy-number) |
+| [0768-partition-labels](https://github.com/monkey-d-paras/Leetcode/tree/master/0768-partition-labels) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/monkey-d-paras/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1848-sum-of-unique-elements](https://github.com/monkey-d-paras/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/monkey-d-paras/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -120,6 +121,7 @@
 | [0014-longest-common-prefix](https://github.com/monkey-d-paras/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/monkey-d-paras/Leetcode/tree/master/0020-valid-parentheses) |
 | [0168-excel-sheet-column-title](https://github.com/monkey-d-paras/Leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0768-partition-labels](https://github.com/monkey-d-paras/Leetcode/tree/master/0768-partition-labels) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/monkey-d-paras/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Queue
 |  |
@@ -140,6 +142,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/monkey-d-paras/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/monkey-d-paras/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/monkey-d-paras/Leetcode/tree/master/0202-happy-number) |
+| [0768-partition-labels](https://github.com/monkey-d-paras/Leetcode/tree/master/0768-partition-labels) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/monkey-d-paras/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Union Find
 |  |
@@ -219,6 +222,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/monkey-d-paras/Leetcode/tree/master/0768-partition-labels) |
 | [2681-put-marbles-in-bags](https://github.com/monkey-d-paras/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/monkey-d-paras/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Monotonic Stack
