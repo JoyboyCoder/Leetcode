@@ -135,6 +135,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/monkey-d-paras/Leetcode/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/monkey-d-paras/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [3001-apply-operations-to-maximize-score](https://github.com/monkey-d-paras/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Two Pointers
 |  |
@@ -196,6 +197,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/monkey-d-paras/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [2793-count-the-number-of-complete-components](https://github.com/monkey-d-paras/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
@@ -229,4 +231,12 @@
 |  |
 | ------- |
 | [3001-apply-operations-to-maximize-score](https://github.com/monkey-d-paras/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/monkey-d-paras/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/monkey-d-paras/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
