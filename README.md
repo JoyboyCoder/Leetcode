@@ -16,6 +16,7 @@
 | [0258-add-digits](https://github.com/monkey-d-paras/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/monkey-d-paras/Leetcode/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/monkey-d-paras/Leetcode/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/monkey-d-paras/Leetcode/tree/master/0326-power-of-three) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/monkey-d-paras/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2610-closest-prime-numbers-in-range](https://github.com/parasu866776/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [3001-apply-operations-to-maximize-score](https://github.com/monkey-d-paras/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
@@ -190,6 +191,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/monkey-d-paras/Leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/monkey-d-paras/Leetcode/tree/master/0326-power-of-three) |
 ## Simulation
 |  |
 | ------- |
