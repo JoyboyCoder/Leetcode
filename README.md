@@ -21,6 +21,7 @@
 | [0367-valid-perfect-square](https://github.com/monkey-d-paras/Leetcode/tree/master/0367-valid-perfect-square) |
 | [1013-fibonacci-number](https://github.com/monkey-d-paras/Leetcode/tree/master/1013-fibonacci-number) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/monkey-d-paras/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/monkey-d-paras/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/monkey-d-paras/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2610-closest-prime-numbers-in-range](https://github.com/parasu866776/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [3001-apply-operations-to-maximize-score](https://github.com/monkey-d-paras/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
@@ -46,6 +47,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/monkey-d-paras/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1848-sum-of-unique-elements](https://github.com/monkey-d-paras/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/monkey-d-paras/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/monkey-d-paras/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/monkey-d-paras/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/monkey-d-paras/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/monkey-d-paras/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -106,6 +108,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/monkey-d-paras/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/monkey-d-paras/Leetcode/tree/master/0342-power-of-four) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/monkey-d-paras/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/monkey-d-paras/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/monkey-d-paras/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/monkey-d-paras/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -252,4 +255,16 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/monkey-d-paras/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Backtracking
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/monkey-d-paras/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/monkey-d-paras/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/monkey-d-paras/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
