@@ -43,6 +43,7 @@
 | [0169-majority-element](https://github.com/monkey-d-paras/Leetcode/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/monkey-d-paras/Leetcode/tree/master/0414-third-maximum-number) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/monkey-d-paras/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [1293-three-consecutive-odds](https://github.com/monkey-d-paras/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/monkey-d-paras/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/monkey-d-paras/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1848-sum-of-unique-elements](https://github.com/monkey-d-paras/Leetcode/tree/master/1848-sum-of-unique-elements) |
