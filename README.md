@@ -49,6 +49,7 @@
 | [1293-three-consecutive-odds](https://github.com/monkey-d-paras/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/monkey-d-paras/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/monkey-d-paras/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/monkey-d-paras/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/monkey-d-paras/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1848-sum-of-unique-elements](https://github.com/monkey-d-paras/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/monkey-d-paras/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -145,6 +146,7 @@
 | [0020-valid-parentheses](https://github.com/monkey-d-paras/Leetcode/tree/master/0020-valid-parentheses) |
 | [0168-excel-sheet-column-title](https://github.com/monkey-d-paras/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0768-partition-labels](https://github.com/monkey-d-paras/Leetcode/tree/master/0768-partition-labels) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/monkey-d-paras/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/monkey-d-paras/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Queue
 |  |
