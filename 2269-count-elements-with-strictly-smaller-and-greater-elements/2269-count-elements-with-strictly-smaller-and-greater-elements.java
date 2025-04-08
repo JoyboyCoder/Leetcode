@@ -1,10 +1,13 @@
 class Solution {
     public int countElements(int[] nums) {
-        Arrays.sort(nums);
-        int n = nums.length;
-        for(int i:nums){
-            if(i==nums[0] || i==nums[nums.length - 1]) n--;
+        int min = Integer.MAX_VALUE, max = Integer.MIN_VALUE, count = 0;
+        for (int num : nums) {
+            min = Math.min(min, num);
+            max = Math.max(max, num);
         }
-        return n;
+        for (int num : nums) {
+            if (num > min && num < max) count++;
+        }
+        return count;
     }
 }
