@@ -52,6 +52,7 @@
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/monkey-d-paras/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/monkey-d-paras/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1848-sum-of-unique-elements](https://github.com/monkey-d-paras/Leetcode/tree/master/1848-sum-of-unique-elements) |
+| [1944-truncate-sentence](https://github.com/monkey-d-paras/Leetcode/tree/master/1944-truncate-sentence) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/monkey-d-paras/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/monkey-d-paras/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/monkey-d-paras/Leetcode/tree/master/2048-build-array-from-permutation) |
@@ -148,6 +149,7 @@
 | [0168-excel-sheet-column-title](https://github.com/monkey-d-paras/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0768-partition-labels](https://github.com/monkey-d-paras/Leetcode/tree/master/0768-partition-labels) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/monkey-d-paras/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1944-truncate-sentence](https://github.com/monkey-d-paras/Leetcode/tree/master/1944-truncate-sentence) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/monkey-d-paras/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/monkey-d-paras/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Queue
