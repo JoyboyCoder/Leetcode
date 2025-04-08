@@ -1,9 +1,14 @@
 class Solution {
     public int[] buildArray(int[] nums) {
-       int arr[] = new int[nums.length];
-       for(int i=0;i<nums.length;i++){
-        arr[i]=nums[nums[i]];
-       } 
-       return arr;
+        trans(nums, 0);
+        return nums;
+    }
+    
+    private void trans(int[] nums, int i) {
+        if(i<nums.length) {
+           int value = nums[nums[i]];
+           trans(nums, i+1);
+           nums[i]=value;
+        }
     }
 }
