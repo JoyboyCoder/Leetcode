@@ -55,6 +55,7 @@
 | [1950-sign-of-the-product-of-an-array](https://github.com/monkey-d-paras/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/monkey-d-paras/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/monkey-d-paras/Leetcode/tree/master/2048-build-array-from-permutation) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/monkey-d-paras/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/monkey-d-paras/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/monkey-d-paras/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/monkey-d-paras/Leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -147,6 +148,7 @@
 | [0168-excel-sheet-column-title](https://github.com/monkey-d-paras/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0768-partition-labels](https://github.com/monkey-d-paras/Leetcode/tree/master/0768-partition-labels) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/monkey-d-paras/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/monkey-d-paras/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/monkey-d-paras/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Queue
 |  |
@@ -227,6 +229,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/monkey-d-paras/Leetcode/tree/master/0258-add-digits) |
 | [2048-build-array-from-permutation](https://github.com/monkey-d-paras/Leetcode/tree/master/2048-build-array-from-permutation) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/monkey-d-paras/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Depth-First Search
 |  |
 | ------- |
