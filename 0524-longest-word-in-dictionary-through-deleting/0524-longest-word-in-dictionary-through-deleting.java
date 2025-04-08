@@ -1,36 +1,27 @@
 class Solution {
 	public String findLongestWord(String s, List<String> dictionary) {
 
-		String answer = "";
-		String temAnwer = "";
+		String ans = "";
+		String temp = "";
 		Collections.sort(dictionary);
-
-		for (String vocabulary : dictionary) {
-			int pointer = 0;
-			int vocabularyLength = vocabulary.length();
-			vocabulary.charAt(pointer);
-
+        System.out.println(dictionary);
+		for (String ch : dictionary) {
+			int j = 0;
+			int len= ch.length();
+			ch.charAt(j);
 			for (int i = 0; i < s.length(); i++) {
-
-				if (vocabulary.charAt(pointer) == s.charAt(i)) {
-
-					pointer++;
-
+				if (ch.charAt(j) == s.charAt(i)) {
+					j++;
 				}
-
-				if (pointer == vocabularyLength) {
-					temAnwer = vocabulary;
+				if (j == len) {
+					temp = ch;
 					break;
 				}
-
 			}
-
-			if (temAnwer.length() > answer.length()) {
-				answer = temAnwer;
+			if (temp.length() > ans.length()) {
+				ans = temp;
 			}
-
 		}
-
-		return answer;
+		return ans;
 	}
 }
