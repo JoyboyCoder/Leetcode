@@ -62,6 +62,7 @@
 | [2665-minimum-time-to-repair-cars](https://github.com/monkey-d-paras/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2681-put-marbles-in-bags](https://github.com/monkey-d-paras/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2690-house-robber-iv](https://github.com/monkey-d-paras/Leetcode/tree/master/2690-house-robber-iv) |
+| [2836-neither-minimum-nor-maximum](https://github.com/monkey-d-paras/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/monkey-d-paras/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/monkey-d-paras/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/parasu866776/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -189,6 +190,7 @@
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/monkey-d-paras/Leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/monkey-d-paras/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/monkey-d-paras/Leetcode/tree/master/2681-put-marbles-in-bags) |
+| [2836-neither-minimum-nor-maximum](https://github.com/monkey-d-paras/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/monkey-d-paras/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/monkey-d-paras/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3430-count-days-without-meetings](https://github.com/monkey-d-paras/Leetcode/tree/master/3430-count-days-without-meetings) |
