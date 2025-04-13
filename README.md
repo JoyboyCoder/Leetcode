@@ -233,6 +233,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/monkey-d-paras/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/monkey-d-paras/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/monkey-d-paras/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/monkey-d-paras/Leetcode/tree/master/0342-power-of-four) |
@@ -302,4 +303,8 @@
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/monkey-d-paras/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3548-find-the-count-of-good-integers](https://github.com/monkey-d-paras/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/monkey-d-paras/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
