@@ -27,6 +27,7 @@
 | [3001-apply-operations-to-maximize-score](https://github.com/monkey-d-paras/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/parasu866776/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3548-find-the-count-of-good-integers](https://github.com/monkey-d-paras/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
+| [3830-find-closest-person](https://github.com/monkey-d-paras/Leetcode/tree/master/3830-find-closest-person) |
 ## Number Theory
 |  |
 | ------- |
