@@ -5,8 +5,10 @@ class Solution {
 
         if(y>z) y=y-z;
         else y=z-y;
+
         if(x<y) return 1;
         else if (x>y) return 2;
-        else return 0;
+
+        return 0;
     }
 }
