@@ -162,6 +162,7 @@
 | [1944-truncate-sentence](https://github.com/monkey-d-paras/Leetcode/tree/master/1944-truncate-sentence) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/monkey-d-paras/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/monkey-d-paras/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2235-capitalize-the-title](https://github.com/monkey-d-paras/Leetcode/tree/master/2235-capitalize-the-title) |
 ## Queue
 |  |
 | ------- |
