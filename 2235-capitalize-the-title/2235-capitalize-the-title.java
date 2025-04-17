@@ -1,18 +1,14 @@
 class Solution {
-	public String capitalizeTitle(String title) {
-		char[] ch = title.toCharArray();
-		int len = ch.length;
-		for(int i = 0; i < len; ++i) {
-			int firstIndex = i; 
-			while(i < len && ch[i] != ' ') {
-				ch[i] = Character.toLowerCase(ch[i]);
-				++i;
-			}
-			if(i - firstIndex > 2) {
-				ch[firstIndex] =  Character.toUpperCase(ch[firstIndex]); 
-			}
-		}
+    public String capitalizeTitle(String title) {
+        String[] arr = title.split(" ");
 
-		return String.valueOf(ch);
-}
+        for (int i = 0; i < arr.length; i++) {
+            arr[i] = arr[i].toLowerCase(); 
+            if (arr[i].length() > 2) {
+                char firstChar = Character.toUpperCase(arr[i].charAt(0));
+                arr[i] = firstChar + arr[i].substring(1);
+            }
+        }
+        return String.join(" ", arr);
+    }
 }
