@@ -40,6 +40,7 @@
 | [0001-two-sum](https://github.com/monkey-d-paras/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/monkey-d-paras/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/monkey-d-paras/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/monkey-d-paras/Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/monkey-d-paras/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/monkey-d-paras/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0134-gas-station](https://github.com/monkey-d-paras/Leetcode/tree/master/0134-gas-station) |
@@ -106,6 +107,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/monkey-d-paras/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/monkey-d-paras/Leetcode/tree/master/0035-search-insert-position) |
 | [0367-valid-perfect-square](https://github.com/monkey-d-paras/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/monkey-d-paras/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/monkey-d-paras/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
