@@ -20,6 +20,7 @@
 | [0342-power-of-four](https://github.com/monkey-d-paras/Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/monkey-d-paras/Leetcode/tree/master/0367-valid-perfect-square) |
 | [1013-fibonacci-number](https://github.com/monkey-d-paras/Leetcode/tree/master/1013-fibonacci-number) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/monkey-d-paras/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/monkey-d-paras/Leetcode/tree/master/1500-count-largest-group) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/monkey-d-paras/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/monkey-d-paras/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -54,6 +55,7 @@
 | [0748-largest-number-at-least-twice-of-others](https://github.com/monkey-d-paras/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1293-three-consecutive-odds](https://github.com/monkey-d-paras/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/monkey-d-paras/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/monkey-d-paras/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/monkey-d-paras/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/monkey-d-paras/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/monkey-d-paras/Leetcode/tree/master/1791-richest-customer-wealth) |
