@@ -66,6 +66,7 @@
 | [2048-build-array-from-permutation](https://github.com/monkey-d-paras/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/monkey-d-paras/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/monkey-d-paras/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/monkey-d-paras/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/monkey-d-paras/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/monkey-d-paras/Leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2308-divide-array-into-equal-pairs](https://github.com/monkey-d-paras/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -115,6 +116,7 @@
 | [0367-valid-perfect-square](https://github.com/monkey-d-paras/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/monkey-d-paras/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/monkey-d-paras/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/monkey-d-paras/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2665-minimum-time-to-repair-cars](https://github.com/monkey-d-paras/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/monkey-d-paras/Leetcode/tree/master/2690-house-robber-iv) |
 | [3643-zero-array-transformation-ii](https://github.com/monkey-d-paras/Leetcode/tree/master/3643-zero-array-transformation-ii) |
@@ -172,6 +174,7 @@
 ## Queue
 |  |
 | ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/monkey-d-paras/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/monkey-d-paras/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Trie
 |  |
@@ -219,6 +222,7 @@
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/monkey-d-paras/Leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/monkey-d-paras/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/monkey-d-paras/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/monkey-d-paras/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/monkey-d-paras/Leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/monkey-d-paras/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/monkey-d-paras/Leetcode/tree/master/2681-put-marbles-in-bags) |
@@ -292,6 +296,7 @@
 | ------- |
 | [0134-gas-station](https://github.com/monkey-d-paras/Leetcode/tree/master/0134-gas-station) |
 | [0768-partition-labels](https://github.com/monkey-d-paras/Leetcode/tree/master/0768-partition-labels) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/monkey-d-paras/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2681-put-marbles-in-bags](https://github.com/monkey-d-paras/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/monkey-d-paras/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Monotonic Stack
@@ -329,4 +334,8 @@
 | [0203-remove-linked-list-elements](https://github.com/monkey-d-paras/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/monkey-d-paras/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/monkey-d-paras/Leetcode/tree/master/0234-palindrome-linked-list) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/monkey-d-paras/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 <!---LeetCode Topics End-->
