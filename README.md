@@ -12,6 +12,7 @@
 | [0168-excel-sheet-column-title](https://github.com/monkey-d-paras/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/monkey-d-paras/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/monkey-d-paras/Leetcode/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/monkey-d-paras/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/monkey-d-paras/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/monkey-d-paras/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/monkey-d-paras/Leetcode/tree/master/0263-ugly-number) |
@@ -33,6 +34,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/monkey-d-paras/Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/monkey-d-paras/Leetcode/tree/master/0258-add-digits) |
 | [2610-closest-prime-numbers-in-range](https://github.com/parasu866776/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [3001-apply-operations-to-maximize-score](https://github.com/monkey-d-paras/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
@@ -47,6 +49,7 @@
 | [0088-merge-sorted-array](https://github.com/monkey-d-paras/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0134-gas-station](https://github.com/monkey-d-paras/Leetcode/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/monkey-d-paras/Leetcode/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/monkey-d-paras/Leetcode/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/monkey-d-paras/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0414-third-maximum-number](https://github.com/monkey-d-paras/Leetcode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/monkey-d-paras/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -323,6 +326,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/monkey-d-paras/Leetcode/tree/master/0204-count-primes) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/monkey-d-paras/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3548-find-the-count-of-good-integers](https://github.com/monkey-d-paras/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
 ## Linked List
