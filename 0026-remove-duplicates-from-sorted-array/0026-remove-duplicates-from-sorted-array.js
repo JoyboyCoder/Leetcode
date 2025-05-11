@@ -3,17 +3,24 @@
  * @return {number}
  */
 var removeDuplicates = function(nums) {
-    if (nums.length === 0) {
-        return 0;
+    let leftPointer = 0;
+    let rightPointer = 1;
+    let dupeCount = 0;
+    if (nums.length <= 1 ){
+        return nums.length;
     }
-
-    let k = 1; // Initialize the count of unique elements to 1
-    for (let i = 1; i < nums.length; i++) {
-        if (nums[i] !== nums[k - 1]) {
-            nums[k] = nums[i]; // Overwrite the next unique element
-            k++;
+    while (rightPointer < nums.length) {
+        let positionVal = nums[leftPointer]
+        let checkVal = nums[rightPointer]
+        if (positionVal === checkVal) {
+            rightPointer++;
+            dupeCount++;
+        } else {
+            nums[leftPointer + 1] = nums[rightPointer];
+            rightPointer++;
+            leftPointer++;
         }
     }
 
-    return k;
+    return nums.length - dupeCount
 };
