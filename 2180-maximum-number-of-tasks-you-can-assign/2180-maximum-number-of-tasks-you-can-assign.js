@@ -1,37 +1,66 @@
-var maxTaskAssign = function(tasks, workers, pills, strength) {
-    tasks.sort((a, b) => a - b);
-    workers.sort((a, b) => a - b);
+const count = new Uint32Array(256);
+const prefix = new Uint32Array(256);
 
-    function canAssign(mid) {
-        let boosted = [];
-        let w = workers.length - 1;
-        let freePills = pills;
+const toRadixSorted = (a) => {
+    const n = a.length;
+    if (n < 2) return a;
+    let buffer = new Uint32Array(a);
+    let output = new Uint32Array(n);
+    let maxShift = 0;
+    for (let i = 0; i < n; ++i) maxShift |= a[i];
+    maxShift = maxShift ? (32 - Math.clz32(maxShift)) : 0;
 
-        for (let t = mid - 1; t >= 0; t--) {
-            const task = tasks[t];
-
-            if (boosted.length && boosted[0] >= task) {
-                boosted.shift();
-            } else if (w >= 0 && workers[w] >= task) {
-                w--;
-            } else {
-                while (w >= 0 && workers[w] + strength >= task) {
-                    boosted.push(workers[w--]);
-                }
-                if (!boosted.length || freePills === 0) return false;
-                boosted.pop();
-                freePills--;
-            }
+    for (let shift = 0; shift < maxShift; shift += 8) {
+        count.fill(0);
+        for (let i = 0; i < n; ++i)
+            ++count[(buffer[i] >>> shift) & 0xFF];
+        prefix[0] = 0;
+        for (let i = 1; i < 256; ++i)
+            prefix[i] = prefix[i - 1] + count[i - 1];
+        for (let i = 0; i < n; ++i) {
+            const val = buffer[i];
+            const b = (val >>> shift) & 0xFF;
+            output[prefix[b]++] = val;
         }
-
-        return true;
+        const temp = buffer;
+        buffer = output;
+        output = temp;
     }
+    return buffer;
+}
 
-    let low = 0, high = Math.min(tasks.length, workers.length);
-    while (low < high) {
-        let mid = Math.floor((low + high + 1) / 2);
-        if (canAssign(mid)) low = mid;
-        else high = mid - 1;
+const a = new Uint32Array(50000);
+const guess = (k, tasks, workers, pills, strength) => {
+    const m = workers.length;
+    for (let i = m - k, j = 0, l = 0, r = 0; i < m; i++) {
+        const w = workers[i];
+        while (j < k && tasks[j] <= w + strength) {
+            a[r++] = tasks[j++];
+        }
+        if (l === r) return false;
+        if (a[l] <= w) l++;
+        else if (pills > 0) {
+            pills--;
+            r--;
+        } else return false;
     }
-    return low;
+    return true;
+};
+
+const maxTaskAssign = (tasks, workers, pills, strength) => {
+    tasks = toRadixSorted(tasks);
+    workers = toRadixSorted(workers);
+
+    let left = 0;
+    let right = Math.min(tasks.length, workers.length);
+
+    while (left <= right) {
+        const mid = (left + right) >> 1;
+        if (guess(mid, tasks, workers, pills, strength)) {
+            left = mid + 1;
+        } else {
+            right = mid - 1;
+        }
+    }
+    return right;
 };
