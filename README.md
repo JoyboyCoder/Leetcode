@@ -81,6 +81,7 @@
 | [2836-neither-minimum-nor-maximum](https://github.com/monkey-d-paras/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/monkey-d-paras/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/monkey-d-paras/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3194-find-words-containing-character](https://github.com/monkey-d-paras/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/parasu866776/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/monkey-d-paras/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3430-count-days-without-meetings](https://github.com/monkey-d-paras/Leetcode/tree/master/3430-count-days-without-meetings) |
@@ -174,6 +175,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/monkey-d-paras/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/monkey-d-paras/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2235-capitalize-the-title](https://github.com/monkey-d-paras/Leetcode/tree/master/2235-capitalize-the-title) |
+| [3194-find-words-containing-character](https://github.com/monkey-d-paras/Leetcode/tree/master/3194-find-words-containing-character) |
 ## Queue
 |  |
 | ------- |
