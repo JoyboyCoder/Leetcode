@@ -349,4 +349,8 @@
 |  |
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/monkey-d-paras/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/monkey-d-paras/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
