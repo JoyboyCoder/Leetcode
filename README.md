@@ -361,4 +361,5 @@
 | [0196-delete-duplicate-emails](https://github.com/monkey-d-paras/Leetcode/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/monkey-d-paras/Leetcode/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/monkey-d-paras/Leetcode/tree/master/0577-employee-bonus) |
+| [1179-game-play-analysis-i](https://github.com/monkey-d-paras/Leetcode/tree/master/1179-game-play-analysis-i) |
 <!---LeetCode Topics End-->
