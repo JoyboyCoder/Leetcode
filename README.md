@@ -51,6 +51,7 @@
 | [0169-majority-element](https://github.com/monkey-d-paras/Leetcode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/monkey-d-paras/Leetcode/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/monkey-d-paras/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/monkey-d-paras/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0414-third-maximum-number](https://github.com/monkey-d-paras/Leetcode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/monkey-d-paras/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/monkey-d-paras/Leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
@@ -128,6 +129,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/monkey-d-paras/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/monkey-d-paras/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/monkey-d-paras/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/monkey-d-paras/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Divide and Conquer
@@ -362,4 +364,8 @@
 | [0197-rising-temperature](https://github.com/monkey-d-paras/Leetcode/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/monkey-d-paras/Leetcode/tree/master/0577-employee-bonus) |
 | [1179-game-play-analysis-i](https://github.com/monkey-d-paras/Leetcode/tree/master/1179-game-play-analysis-i) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/monkey-d-paras/Leetcode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
