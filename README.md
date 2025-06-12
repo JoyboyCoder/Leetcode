@@ -8,6 +8,7 @@
 | [0009-palindrome-number](https://github.com/monkey-d-paras/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/monkey-d-paras/Leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/monkey-d-paras/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/monkey-d-paras/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/monkey-d-paras/Leetcode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/monkey-d-paras/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/monkey-d-paras/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
@@ -140,6 +141,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/monkey-d-paras/Leetcode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/monkey-d-paras/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/monkey-d-paras/Leetcode/tree/master/0342-power-of-four) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/monkey-d-paras/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -167,6 +169,7 @@
 | [0014-longest-common-prefix](https://github.com/monkey-d-paras/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/monkey-d-paras/Leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/monkey-d-paras/Leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/monkey-d-paras/Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/monkey-d-paras/Leetcode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/monkey-d-paras/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0344-reverse-string](https://github.com/monkey-d-paras/Leetcode/tree/master/0344-reverse-string) |
@@ -272,6 +275,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/monkey-d-paras/Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/monkey-d-paras/Leetcode/tree/master/0258-add-digits) |
 | [2048-build-array-from-permutation](https://github.com/monkey-d-paras/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/monkey-d-paras/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
