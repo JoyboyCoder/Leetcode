@@ -32,6 +32,7 @@
 | [3001-apply-operations-to-maximize-score](https://github.com/monkey-d-paras/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/parasu866776/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3548-find-the-count-of-good-integers](https://github.com/monkey-d-paras/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/monkey-d-paras/Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3830-find-closest-person](https://github.com/monkey-d-paras/Leetcode/tree/master/3830-find-closest-person) |
 ## Number Theory
 |  |
@@ -151,6 +152,7 @@
 | [2478-longest-nice-subarray](https://github.com/monkey-d-paras/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/monkey-d-paras/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/monkey-d-paras/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/monkey-d-paras/Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Counting
 |  |
 | ------- |
@@ -274,6 +276,7 @@
 | [0326-power-of-three](https://github.com/monkey-d-paras/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/monkey-d-paras/Leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/monkey-d-paras/Leetcode/tree/master/1013-fibonacci-number) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/monkey-d-paras/Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Simulation
 |  |
 | ------- |
