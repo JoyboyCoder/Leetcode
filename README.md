@@ -70,6 +70,7 @@
 | [1848-sum-of-unique-elements](https://github.com/monkey-d-paras/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1944-truncate-sentence](https://github.com/monkey-d-paras/Leetcode/tree/master/1944-truncate-sentence) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/monkey-d-paras/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/monkey-d-paras/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/monkey-d-paras/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/monkey-d-paras/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/monkey-d-paras/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -129,6 +130,7 @@
 | [0367-valid-perfect-square](https://github.com/monkey-d-paras/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/monkey-d-paras/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/monkey-d-paras/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/monkey-d-paras/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/monkey-d-paras/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2665-minimum-time-to-repair-cars](https://github.com/monkey-d-paras/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/monkey-d-paras/Leetcode/tree/master/2690-house-robber-iv) |
@@ -138,6 +140,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/monkey-d-paras/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/monkey-d-paras/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/monkey-d-paras/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/monkey-d-paras/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/monkey-d-paras/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Divide and Conquer
@@ -168,6 +171,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/monkey-d-paras/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2478-longest-nice-subarray](https://github.com/monkey-d-paras/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/monkey-d-paras/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## String
@@ -249,6 +253,7 @@
 | [0414-third-maximum-number](https://github.com/monkey-d-paras/Leetcode/tree/master/0414-third-maximum-number) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/monkey-d-paras/Leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/monkey-d-paras/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/monkey-d-paras/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/monkey-d-paras/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/monkey-d-paras/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/monkey-d-paras/Leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -327,6 +332,7 @@
 | ------- |
 | [0134-gas-station](https://github.com/monkey-d-paras/Leetcode/tree/master/0134-gas-station) |
 | [0768-partition-labels](https://github.com/monkey-d-paras/Leetcode/tree/master/0768-partition-labels) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/monkey-d-paras/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/monkey-d-paras/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2681-put-marbles-in-bags](https://github.com/monkey-d-paras/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/monkey-d-paras/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
