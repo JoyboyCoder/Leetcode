@@ -1,21 +1,13 @@
 import java.util.Collections;
 class Solution {
-    public int maxProfit(int[] prices) {
+    public int maxProfit(int[] arr) {
 
-        int n =prices.length;
-        int m = Integer.MAX_VALUE;
-        int ans = 0;
-        int temp = 0;
-        for (int i = 0;i<n;i++){
-            temp = prices[i]-m;
-            
-            if (ans<temp){
-                ans = temp;
-            } 
-            if (prices[i]<m){
-                m=prices[i];
-            }
-        }
-        return ans;
+    int maxPro = 0;
+    int minPrice = Integer.MAX_VALUE;
+    for (int i = 0; i < arr.length; i++) {
+        minPrice = Math.min(minPrice, arr[i]);
+        maxPro = Math.max(maxPro, arr[i] - minPrice);
+    }
+    return maxPro;
         }   
     }    
