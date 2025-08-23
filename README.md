@@ -52,6 +52,7 @@
 | [0035-search-insert-position](https://github.com/monkey-d-paras/Leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/monkey-d-paras/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/monkey-d-paras/Leetcode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/monkey-d-paras/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/monkey-d-paras/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/monkey-d-paras/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/monkey-d-paras/Leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -108,6 +109,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/monkey-d-paras/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/monkey-d-paras/Leetcode/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/monkey-d-paras/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/monkey-d-paras/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/monkey-d-paras/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/monkey-d-paras/Leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -126,6 +128,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/monkey-d-paras/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1791-richest-customer-wealth](https://github.com/monkey-d-paras/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/monkey-d-paras/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/monkey-d-paras/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
