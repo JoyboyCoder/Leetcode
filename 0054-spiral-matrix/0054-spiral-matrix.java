@@ -2,11 +2,11 @@ class Solution {
     public List<Integer> spiralOrder(int[][] mat) {
         List<Integer> ans = new ArrayList<>();
         
-        int n = mat.length; // no. of rows
-        int m = mat[0].length; // no. of columns
+        // int n = mat.length; // no. of rows
+        // int m = mat[0].length; // no. of columns
         
         // Initialize the pointers required for traversal.
-        int top = 0, left = 0, bottom = n - 1, right = m - 1;
+        int top = 0, left = 0, bottom = mat.length - 1, right = mat.length - 1;
 
         // Loop until all elements are not traversed.
         while (top <= bottom && left <= right) {
