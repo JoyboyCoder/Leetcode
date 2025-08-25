@@ -53,6 +53,7 @@
 | [0035-search-insert-position](https://github.com/monkey-d-paras/Leetcode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/monkey-d-paras/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/monkey-d-paras/Leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/monkey-d-paras/Leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/monkey-d-paras/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/monkey-d-paras/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/monkey-d-paras/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -131,6 +132,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/monkey-d-paras/Leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/monkey-d-paras/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/monkey-d-paras/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1791-richest-customer-wealth](https://github.com/monkey-d-paras/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/monkey-d-paras/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -318,6 +320,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/monkey-d-paras/Leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/monkey-d-paras/Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/monkey-d-paras/Leetcode/tree/master/0258-add-digits) |
 | [2048-build-array-from-permutation](https://github.com/monkey-d-paras/Leetcode/tree/master/2048-build-array-from-permutation) |
