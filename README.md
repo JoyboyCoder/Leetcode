@@ -69,6 +69,7 @@
 | [0414-third-maximum-number](https://github.com/monkey-d-paras/Leetcode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/monkey-d-paras/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/monkey-d-paras/Leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0560-subarray-sum-equals-k](https://github.com/monkey-d-paras/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/monkey-d-paras/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/monkey-d-paras/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1293-three-consecutive-odds](https://github.com/monkey-d-paras/Leetcode/tree/master/1293-three-consecutive-odds) |
@@ -118,6 +119,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/monkey-d-paras/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/monkey-d-paras/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/monkey-d-paras/Leetcode/tree/master/0202-happy-number) |
+| [0560-subarray-sum-equals-k](https://github.com/monkey-d-paras/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0768-partition-labels](https://github.com/monkey-d-paras/Leetcode/tree/master/0768-partition-labels) |
 | [1500-count-largest-group](https://github.com/monkey-d-paras/Leetcode/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/monkey-d-paras/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -157,6 +159,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/monkey-d-paras/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/monkey-d-paras/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/monkey-d-paras/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/monkey-d-paras/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/monkey-d-paras/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/monkey-d-paras/Leetcode/tree/master/3643-zero-array-transformation-ii) |
