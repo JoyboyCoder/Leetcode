@@ -4,8 +4,6 @@ class Solution {
     public List<List<Integer>> generate(int numRows) {
         List<List<Integer>> li2 = new ArrayList<>();
 
-        if (numRows <= 0) return li2;
-
         for (int i = 0; i < numRows; i++) {
             
         List<Integer> li = new ArrayList<>();
