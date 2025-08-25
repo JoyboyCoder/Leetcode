@@ -1,25 +1,52 @@
-import java.util.*;
-
 class Solution {
-    public int subarraySum(int[] arr, int k) {
-        int n = arr.length;
-        Map<Integer, Integer> mpp = new HashMap<>();
-        int preSum = 0, cnt = 0;
-
-        // Initialize map with 0 sum having 1 count
-        mpp.put(0, 1);
-
-        for (int i = 0; i < n; i++) {
-            preSum += arr[i];
-
-            // Subarray with sum k ends here if (preSum - k) exists
-            int remove = preSum - k;
-            cnt += mpp.getOrDefault(remove, 0);
-
-            // Update prefix sum frequency
-             
-            mpp.put(preSum, mpp.getOrDefault(preSum, 0) + 1);
+    private static final int NULL = Integer.MIN_VALUE, MIXER = 0x9E3779BA;
+    public static int subarraySum(int[] nums, final int k){
+        final int mask = mask(nums.length);
+        final int[] hashtable = new int[mask + 1];
+        int res = 0, sum = 0, zeros = 1;
+        for(final int n : nums){
+            sum += n;
+            final int diff = sum - k;
+            if(diff != 0){
+                int i = diff * MIXER & mask;
+                while(true){
+                    final int key = hashtable[i];
+                    if(key == 0) break;
+                    if(key == diff){
+                        res += hashtable[i+1];
+                        break;
+                    }
+                    i = i + 2 & mask;
+                }
+            }else{
+            res += zeros;
+            }
+            if(sum != 0){
+                int i = sum * MIXER & mask;
+                while(true){
+                    final int key = hashtable[i];
+                    if(key == 0){
+                        hashtable[i] = sum;
+                        hashtable[i + 1] = 1;
+                        break;
+                    }
+                    if(key == sum){
+                        hashtable[i+1]++;
+                        break;
+                    }
+                    i = i + 2 & mask;
+                }
+            }else{
+            zeros++;
         }
-        return cnt;
+    }
+    return res;
+    }
+    public static int mask(int n){
+        n |= n >> 1;
+        n |= n >> 2;
+        n |= n >> 4;
+        n |= n >>8;
+        return (n << 1) | 31;
     }
 }
