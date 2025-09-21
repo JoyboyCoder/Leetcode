@@ -228,6 +228,7 @@
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/monkey-d-paras/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1944-truncate-sentence](https://github.com/monkey-d-paras/Leetcode/tree/master/1944-truncate-sentence) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/monkey-d-paras/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2154-minimum-moves-to-convert-string](https://github.com/monkey-d-paras/Leetcode/tree/master/2154-minimum-moves-to-convert-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/monkey-d-paras/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2235-capitalize-the-title](https://github.com/monkey-d-paras/Leetcode/tree/master/2235-capitalize-the-title) |
 | [3194-find-words-containing-character](https://github.com/monkey-d-paras/Leetcode/tree/master/3194-find-words-containing-character) |
@@ -382,6 +383,7 @@
 | [0134-gas-station](https://github.com/monkey-d-paras/Leetcode/tree/master/0134-gas-station) |
 | [0768-partition-labels](https://github.com/monkey-d-paras/Leetcode/tree/master/0768-partition-labels) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/monkey-d-paras/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2154-minimum-moves-to-convert-string](https://github.com/monkey-d-paras/Leetcode/tree/master/2154-minimum-moves-to-convert-string) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/monkey-d-paras/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2681-put-marbles-in-bags](https://github.com/monkey-d-paras/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/monkey-d-paras/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
