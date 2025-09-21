@@ -1,19 +1,10 @@
 class Solution {
     public int singleNumber(int[] nums) {
-       HashMap<Integer,Integer> map = new HashMap<>();
-        for(int i:nums){
-            if(map.containsKey(i)){
-                map.put(i,map.get(i)+1);
-            }
-            else{
-                map.put(i,1);
-            }
+        int ones = 0, twos = 0;
+        for (int num : nums) {
+            ones = (ones ^ num) & ~twos;
+            twos = (twos ^ num) & ~ones;
         }
-        for(int i :map.keySet()){
-            if(map.get(i)==1){
-                return i;
-            }
-        }
-        return 0;
+        return ones;
     }
 }
