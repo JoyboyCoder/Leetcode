@@ -75,6 +75,7 @@
 | [0414-third-maximum-number](https://github.com/monkey-d-paras/Leetcode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/monkey-d-paras/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/monkey-d-paras/Leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0540-single-element-in-a-sorted-array](https://github.com/monkey-d-paras/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/monkey-d-paras/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/monkey-d-paras/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/monkey-d-paras/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -154,6 +155,7 @@
 | [0035-search-insert-position](https://github.com/monkey-d-paras/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/monkey-d-paras/Leetcode/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/monkey-d-paras/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0540-single-element-in-a-sorted-array](https://github.com/monkey-d-paras/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/monkey-d-paras/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/monkey-d-paras/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/monkey-d-paras/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
