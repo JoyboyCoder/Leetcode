@@ -12,8 +12,8 @@ class Solution {
             // If target found, return index
             if (nums[mid] == target)
                 return mid;
-
-            // If left part is sorted
+ 
+            // If left part is sorted  
             if (nums[low] <= nums[mid]) {
 
                 // If target lies within sorted left part
