@@ -90,6 +90,7 @@
 | [0748-largest-number-at-least-twice-of-others](https://github.com/monkey-d-paras/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0875-koko-eating-bananas](https://github.com/monkey-d-paras/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1253-sort-the-matrix-diagonally](https://github.com/monkey-d-paras/Leetcode/tree/master/1253-sort-the-matrix-diagonally) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/monkey-d-paras/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1293-three-consecutive-odds](https://github.com/monkey-d-paras/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/monkey-d-paras/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/monkey-d-paras/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -178,6 +179,7 @@
 | [0704-binary-search](https://github.com/monkey-d-paras/Leetcode/tree/master/0704-binary-search) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/monkey-d-paras/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/monkey-d-paras/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/monkey-d-paras/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/monkey-d-paras/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/monkey-d-paras/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/monkey-d-paras/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
