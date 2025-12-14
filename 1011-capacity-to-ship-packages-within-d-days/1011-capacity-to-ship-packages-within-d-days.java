@@ -1,34 +1,35 @@
-class Solution 
-{
-  public int shipWithinDays(int[] weights, int days) 
-  {
-    int l = Arrays.stream(weights).max().getAsInt();
-    int r = Arrays.stream(weights).sum();
-
-    while (l < r) {
-      final int m = (l + r) / 2;
-      if (shipDays(weights, m) <= days)
-        r = m;
-      else
-        l = m + 1;
+class Solution {
+    static {
+        for (int i = 0; i < 300; i++) shipWithinDays(new int[0], 1);
     }
-    return l;
-  }
-
-  private int shipDays(int[] weights, int shipCapacity) 
-  {
-    int days = 1;
-    int capacity = 0;
-    for (final int weight : weights) 
-    {
-      if (capacity + weight > shipCapacity) 
-      {
-        ++days;
-        capacity = weight;
-      } 
-      else
-        capacity += weight;
+    public static int shipWithinDays(int[] weights, int days) {
+        int total = 0, heaviest = 0;
+        for (int w : weights) {
+            total += w;
+            heaviest = Math.max(heaviest, w);
+        }
+        int left = Math.max(heaviest, total / days);
+        int right = heaviest * (int) Math.ceil((double) weights.length / days);
+        while (left < right) {
+            int mid = left + (right - left) / 2;
+            int neededDays = totalDay(weights, mid);
+            if (neededDays <= days) {
+                right = mid;
+            } else {
+                left = mid + 1;
+            }
+        }
+        return left;
     }
-    return days;
-  }
+    private static int totalDay(int[] weights, int capacity) {
+        int days = 1, remaining = capacity;
+        for (int weight : weights) {
+            if (remaining < weight) {
+                days++;
+                remaining = capacity;
+            }
+            remaining -= weight;
+        }
+        return days;
+    }
 }
